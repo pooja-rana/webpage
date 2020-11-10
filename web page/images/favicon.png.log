@@ -1,0 +1,13 @@
+css:1 Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+[Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+[Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+[Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+[Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+[Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+[Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+fa-brands-400.woff2:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
+fa-brands-400.woff:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
+fa-brands-400.ttf:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
+images/favicon.png:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
+DevTools failed to load SourceMap: Could not load content for file:///D:/Pythonproject/web%20page/js/vendor/bootstrap.min.js.map: System error: net::ERR_FILE_NOT_FOUND
+DevTools failed to load SourceMap: Could not load content for file:///D:/Pythonproject/web%20page/css/bootstrap.min.css.map: System error: net::ERR_FILE_NOT_FOUND
